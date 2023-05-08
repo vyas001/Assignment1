@@ -1,0 +1,110 @@
+/* Style for the header */
+header {
+    background-color: #3c3c3c;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style for the navigation bar */
+nav {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #3c3c3c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #c00;
+}
+
+/* Style for the district page */
+.district {
+    margin: 10px 0;
+}
+
+.district h2 {
+    color: #c00;
+    font-size: 24px;
+}
+
+.district img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.district p {
+    margin: 10px 0;
+    text-align: justify;
+}
+
+.district .spot {
+    margin: 10px 0;
+}
+
+.district .spot h3 {
+    color: #c00;
+    font-size: 20px;
+}
+
+.district .spot img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.district .spot p {
+    margin: 10px 0;
+    text-align: justify;
+}
+
+/* Style for the Kerala tourism div */
+#kerala-tourism {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: justify;
+}
+
+#kerala-tourism h2 {
+    color: #c00;
+    font-size: 24px;
+}
+
+#kerala-tourism p {
+    margin: 10px 0;
+    text-align: justify;
+}
+
+#kerala-tourism ul {
+    list-style: disc;
+    margin: 10px 0;
+    padding: 0 0 0 20px;
+}
+
+#kerala-tourism li {
+    margin: 5px 0;
+    text-align: justify;
+}
